@@ -1,8 +1,9 @@
 nav {
     margin: auto;
-    font-size: 14px;
+    font-size: 18px;
     color: black;
     display: flex;
+    padding: 7px;
 }
 
 h1 {
