@@ -1,0 +1,10 @@
+nav {
+    margin: auto;
+    font-size: 14px;
+    color: black;
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
